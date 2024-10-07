@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+}
+
+.App > div {
+  padding: 30px 20px;
+}
+
+
+.custom-navbar {
+  background-color: #905143; 
+  color: white; 
+}
+
+.custom-navbar .nav-link {
+  color: white; 
+}
+
+.custom-navbar .nav-link:hover {
+  color: #d1cfcf; 
+}
+
+.custom-navbar .navbar-brand {
+  color: white; 
+}
+
+#button {
+  background-color: #905143; 
+  border-color: #905143;
+}
+
+.custom-navbar .navbar-brand {
+  pointer-events: none;
+}
